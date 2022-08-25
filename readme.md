@@ -1,4 +1,4 @@
-Responsive Street Style Landing Page designed using pure Html and Css.
+## Responsive Street Style Landing Page designed using pure Html and Css.
 
 ## Concepts and Learnings
 
