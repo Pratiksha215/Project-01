@@ -7,8 +7,8 @@
     - Relative
     - Static
 - Pseudo selectors
-- Image size and Positioning
-- Flexbox
+- Pseudo classes like **:nth-child()**, **:not()**, **:last-child**, **first-child**
+- Navbar link using **::after** & **::before** pseudo elements
 
 ## Landing Page Snapshot
 ![Snapshot](1.png)
@@ -21,6 +21,6 @@ Please check the Live Demo of the Designed Landing Page using the Below Link:-)
 
 ![lIVE-dEMO](https://img.shields.io/badge/Live_Demo-<COLOR>)
 
-[Live-Demo](https://visual-designer-landing.netlify.app/)
+[Live-Demo]([https://whatstrendin2025.netlify.app/)
 
 ## Designed By Patil Pratiksha
