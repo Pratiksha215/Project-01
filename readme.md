@@ -27,6 +27,5 @@ Please check the Live Demo of the Designed Landing Page using the Below Link:-)
 ## Time taken to finish this project
 
 -   3 hour to complete it.
--   4 hour to make it responsive.
 
 ## Designed By Patil Pratiksha
